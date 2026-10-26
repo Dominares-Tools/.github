@@ -2,7 +2,7 @@
 
 Developer tools you buy once. Each tool is a private GitHub repository you are invited to after you buy: the source, and every version published to it. Based in San Diego, California.
 
-35 tools, $49 to $149 each, paid once (plus sales tax where it applies). Store: https://dominares.org/tools · Support: support@dominares.org
+36 tools, $49 to $149 each, paid once (plus sales tax where it applies). Store: https://dominares.org/tools · Support: support@dominares.org
 
 | Tool | What it does | Shelf | Price | Buy |
 | --- | --- | --- | --- | --- |
@@ -18,6 +18,7 @@ Developer tools you buy once. Each tool is a private GitHub repository you are i
 | [knobspec](https://github.com/Dominares-Tools/knobspec-docs) | Declare every setting and secret once. | Testing & code health | $99 | [Buy](https://dominares.org/tools/knobspec) |
 | [cleanfork](https://github.com/Dominares-Tools/cleanfork-docs) | Keep a clean copy of private code in sync. | Testing & code health | $99 | [Buy](https://dominares.org/tools/cleanfork) |
 | [releasetrail](https://github.com/Dominares-Tools/releasetrail-docs) | Approve one exact hash, then deploy and verify. | Testing & code health | $99 | [Buy](https://dominares.org/tools/releasetrail) |
+| [shortgate](https://github.com/Dominares-Tools/shortgate-docs) | A shorter pytest gate, never a weaker one. | Testing & code health | $99 | [Buy](https://dominares.org/tools/shortgate) |
 | [canary](https://github.com/Dominares-Tools/canary-docs) | Know when your chatbot's answers go wrong. | AI quality & safety | $49 | [Buy](https://dominares.org/tools/canary) |
 | [answergrade](https://github.com/Dominares-Tools/answergrade-docs) | Grade chatbot answers against their own sources. | AI quality & safety | $99 | [Buy](https://dominares.org/tools/answergrade) |
 | [truthpatch](https://github.com/Dominares-Tools/truthpatch-docs) | Fix the bot's reply before the visitor reads it. | AI quality & safety | $99 | [Buy](https://dominares.org/tools/truthpatch) |
