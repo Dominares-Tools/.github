@@ -2,7 +2,7 @@
 
 Developer tools you buy once. Each tool is a private GitHub repository you are invited to after you buy: the source, and every version published to it. Based in San Diego, California.
 
-36 tools, $49 to $149 each, paid once (plus sales tax where it applies). Store: https://dominares.org/tools · Support: support@dominares.org
+37 tools, $49 to $149 each, paid once (plus sales tax where it applies). Store: https://dominares.org/tools · Support: support@dominares.org
 
 | Tool | What it does | Shelf | Price | Buy |
 | --- | --- | --- | --- | --- |
@@ -28,6 +28,7 @@ Developer tools you buy once. Each tool is a private GitHub repository you are i
 | [llmledger](https://github.com/Dominares-Tools/llmledger-docs) | Meter AI usage and stop calls past the allowance. | AI cost & reliability | $99 | [Buy](https://dominares.org/tools/llmledger) |
 | [callrelay](https://github.com/Dominares-Tools/callrelay-docs) | Answer calls with a Gemini Live agent on Twilio. | AI cost & reliability | $99 | [Buy](https://dominares.org/tools/callrelay) |
 | [lifeskiff](https://github.com/Dominares-Tools/lifeskiff-docs) | Fail over to the next AI vendor when one breaks. | AI cost & reliability | $99 | [Buy](https://dominares.org/tools/lifeskiff) |
+| [holdfirst](https://github.com/Dominares-Tools/holdfirst-docs) | Stop AI jobs before the prepaid credit does. | AI cost & reliability | $49 | [Buy](https://dominares.org/tools/holdfirst) |
 | [inbound](https://github.com/Dominares-Tools/inbound-docs) | An email address per account, on your domain. | Email & messaging | $49 | [Buy](https://dominares.org/tools/inbound) |
 | [cleartosend](https://github.com/Dominares-Tools/cleartosend-docs) | One gate before every text, email and call. | Email & messaging | $99 | [Buy](https://dominares.org/tools/cleartosend) |
 | [replysplit](https://github.com/Dominares-Tools/replysplit-docs) | Split an email chain into attributed messages. | Email & messaging | $49 | [Buy](https://dominares.org/tools/replysplit) |
